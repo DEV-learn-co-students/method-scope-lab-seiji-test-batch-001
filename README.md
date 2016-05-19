@@ -1,0 +1,1 @@
+# method-scope-lab-seiji-test-batch-001
